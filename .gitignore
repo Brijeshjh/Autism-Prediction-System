@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+Myenv/
+.venv/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model and large data (excluded from repo)
+best_model.pkl
+encoders.pkl
+train.csv
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Environment files
+.env
+
+# Pytest
+.pytest_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
