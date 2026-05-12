@@ -8,20 +8,20 @@ I've created a **complete, production-ready deployment package** for your autism
 
 ## 📦 What Was Created (15 Files Total)
 
-### 🐳 Container & Infrastructure Files (3)
+ Container & Infrastructure Files (3)
 ```
 ✓ Dockerfile              - Packages your FastAPI app + model
 ✓ .dockerignore          - Optimizes container build
 ✓ requirements-gcp.txt   - GCP-specific Python packages
 ```
 
-### 🚀 Deployment Automation (2)
+ Deployment Automation (2)
 ```
 ✓ deploy.ps1             ⭐ MAIN: One-command deployment
 ✓ deploy_vertex_ai.py    - Alternative Python-based deployment
 ```
 
-### 📚 Documentation (10 Guides)
+ Documentation (10 Guides)
 ```
 ✓ START_HERE.md                  ⭐ Quick visual overview
 ✓ QUICKSTART_DEPLOYMENT.md       ⭐ 5-minute quick start
@@ -37,7 +37,7 @@ I've created a **complete, production-ready deployment package** for your autism
 
 ---
 
-## 🎯 Here's How to Deploy (30 Seconds)
+## Here's How to Deploy (30 Seconds)
 
 ### Step 1: Get Your Google Cloud Project ID
 → Go to https://console.cloud.google.com (create project if needed)
